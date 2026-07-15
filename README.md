@@ -15,6 +15,7 @@
 
 </div>
 
+<img width="1434" height="257" alt="image" src="https://github.com/user-attachments/assets/f61255a3-e412-48ab-b29f-691740ffc0bb" />
 
 🚀 From LLM to AI Agent! A complete beginner-friendly guide to Claude Code &amp; DeepSeek, covering concepts, deployment, model integration, and practical usage.📖 从 LLM 到 AI Agent：Claude Code &amp; DeepSeek 完整部署与实战教程
 ---
